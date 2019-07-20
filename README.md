@@ -1,2 +1,3 @@
 # Gwen
-its a personalized voice assistance system
+it can automate all the computer tasks using voice only
+
